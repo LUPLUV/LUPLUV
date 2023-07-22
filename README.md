@@ -5,4 +5,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=lupluv&icon=7&color=6)](https://visitcount.itsvg.in)
 
-[![](https://storage.ko-fi.com/cdn/brandasset/kofi_button_red.png)](https://ko-fi.com/lupluv)
+[![](https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_dark.png)](https://ko-fi.com/lupluv)
