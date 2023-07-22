@@ -6,4 +6,4 @@
 [![](https://visitcount.itsvg.in/api?id=lupluv&icon=7&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thoremuel)
+  [![Ko-Fi](https://user-images.githubusercontent.com/7586345/125668092-55af2a45-aa7d-4795-93ed-de0a9a2828c5.png)](https://ko-fi.com/lupluv)
