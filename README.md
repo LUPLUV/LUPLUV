@@ -6,12 +6,4 @@
 [![](https://visitcount.itsvg.in/api?id=lupluv&icon=7&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('lupluv', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#794bc4',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+  <a href='https://ko-fi.com/Z8Z0MDB3N' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
